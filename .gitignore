@@ -3,3 +3,6 @@ Thumbs.db
 .vscode/
 .obsidian/
 .obsidian
+*.vsidx
+/.gitignore
+*.json
